@@ -1,0 +1,325 @@
+[{
+		"id": "all-things-die",
+		"label": "All Things Die",
+		"description": "Delete a file that has been added in the initial commit (and at least a year has passed)"
+	},
+	{
+		"id": "alzheimers",
+		"label": "Alzheimer's",
+		"description": "Commit time is 1 month or more after the author time"
+	},
+	{
+		"id": "anniversary",
+		"label": "Anniversary",
+		"description": "Commit on the project’s birthday"
+	},
+	{
+		"id": "bad-motherfucker",
+		"label": "Bad Motherf*cker",
+		"description": "Swear in a commit message"
+	}, {
+		"id": "beggar",
+		"label": "Beggar",
+		"description": "Ask for an achievement in a commit message"
+	}, {
+		"id": "blamer",
+		"label": "Blamer",
+		"description": "Use someone else’s name in a commit message"
+	}, {
+		"id": "borat",
+		"label": "Borat",
+		"description": "Misspell a word in a commit message"
+	}, {
+		"id": "catchphrase",
+		"label": "Catchphrase",
+		"description": "Make 10+ commits with the same message"
+	}, {
+		"id": "change-of-mind",
+		"label": "Change of Mind",
+		"description": "Change license type or edit license file"
+	}, {
+		"id": "christmas",
+		"label": "Ruined Christmas",
+		"description": "Commit on Dec 25"
+	}, {
+		"id": "citation-needed",
+		"label": "Citation Needed",
+		"description": "StackOverflow URL in a commit body or message"
+	}, {
+		"id": "collision",
+		"label": "Collision",
+		"description": "Publish commit with the same N first chars of SHA-1 as existing commit"
+	}, {
+		"id": "combo",
+		"label": "Combo",
+		"description": "10+ commits in a row"
+	}, {
+		"id": "combo-breaker",
+		"label": "Combo Breaker",
+		"description": "Make a commit after someone had 10+ commits in a row"
+	}, {
+		"id": "commenter",
+		"label": "Commenter",
+		"description": "Only add a comment"
+	}, {
+		"id": "css",
+		"label": "You Designer Now?",
+		"description": "Add CSS file to the repo"
+	}, {
+		"id": "dangerous-game",
+		"label": "Dangerous Game",
+		"description": "Commit after 6PM friday"
+	}, {
+		"id": "deal-with-it",
+		"label": "Deal with it",
+		"description": "Update master branch with force mode"
+	}, {
+		"id": "easy-fix",
+		"label": "Easy Fix",
+		"description": "Swap two lines"
+	}, {
+		"id": "emoji",
+		"label": "C00l kid",
+		"description": "Use emoji in a commit message"
+	}, {
+		"id": "empty-commit",
+		"label": "<empty title>",
+		"description": "Make an empty commit"
+	}, {
+		"id": "eraser",
+		"label": "Eraser",
+		"description": "Make a commit with no lines added, only deletions"
+	}, {
+		"id": "fat-ass",
+		"label": "Fat Ass",
+		"description": "Commit 2Mb file or bigger"
+	}, {
+		"id": "fix",
+		"label": "Save the Day",
+		"description": "Use word “fix” in a commit message"
+	}, {
+		"id": "flash",
+		"label": "Flash",
+		"description": "Two different commits within 15 seconds"
+	}, {
+		"id": "fools-day",
+		"label": "Fools’ Code",
+		"description": "Commit on Apr 1"
+	}, {
+		"id": "for-stallman",
+		"label": "For Stallman!",
+		"description": "Add GPL license file to the repo"
+	}, {
+		"id": "forgot",
+		"label": "Second Thoughts",
+		"description": "Use word “forgot” in a commit message"
+	}, {
+		"id": "get",
+		"label": "Get",
+		"description": "Make commit #1000, or #1111, or #1234"
+	}, {
+		"id": "gitignore",
+		"label": "Gitignore",
+		"description": "Add .gitignore"
+	}, {
+		"id": "good-boy",
+		"label": "Good Boy",
+		"description": "Create 'test' or 'doc' directory (not in the first commit)"
+	}, {
+		"id": "google",
+		"label": "I Can Sort It out Myself",
+		"description": "Use word “google” in a commit message"
+	}, {
+		"id": "hack",
+		"label": "Real Hacker",
+		"description": "Use word “hack” in a commit message"
+	}, {
+		"id": "halloween",
+		"label": "This Code Looks Scary",
+		"description": "Commit on Oct 31"
+	}, {
+		"id": "hello-linus",
+		"label": "Hello, Linus",
+		"description": "5+ swear words in a commit message"
+	}, {
+		"id": "holy-war",
+		"label": "Holy War",
+		"description": "Change tabs to spaces or vice versa"
+	}, {
+		"id": "hydra",
+		"label": "Hydra",
+		"description": "Make a commit with 3+ parents"
+	}, {
+		"id": "impossible",
+		"label": "Mission Impossible",
+		"description": "Use word “impossible” in a commit message"
+	}, {
+		"id": "java",
+		"label": "Write Once. Run. Anywhere",
+		"description": "Add Java file to the repo"
+	}, {
+		"id": "javascript",
+		"label": "Happily Never After",
+		"description": "Add JS file to the repo"
+	}, {
+		"id": "leap-day",
+		"label": "Rare Occasion",
+		"description": "Commit on Feb 29"
+	}, {
+		"id": "leo-tolstoy",
+		"label": "Leo Tolstoy",
+		"description": "More than 10 lines in a commit message"
+	}, {
+		"id": "loneliness",
+		"label": "Loneliness",
+		"description": "You are the only committer for a month"
+	}, {
+		"id": "lucky",
+		"label": "Lucky",
+		"description": "Consecutive 777 in SHA-1"
+	}, {
+		"id": "magic",
+		"label": "The Colour of Magic",
+		"description": "Use word “magic” in a commit message"
+	}, {
+		"id": "man-of-few-words",
+		"label": "A Man of Few Words",
+		"description": "Commit message with 3 letters or less"
+	}, {
+		"id": "mark-of-the-beast",
+		"label": "Mark of the Beast",
+		"description": "Consecutive 666 in SHA-1"
+	}, {
+		"id": "massive",
+		"label": "Massive",
+		"description": "Add more than 1000 lines in a single commit"
+	}, {
+		"id": "mover",
+		"label": "Mover",
+		"description": "Move a file from one place to another without changing it"
+	}, {
+		"id": "multilingual",
+		"label": "Multilingual",
+		"description": "Add/edit files in 3+ different languages in a single commit"
+	}, {
+		"id": "munchkin",
+		"label": "Munchkin",
+		"description": "Get 5 achievements with 1 commit"
+	}, {
+		"id": "narcissist",
+		"label": "Narcissist",
+		"description": "Use your own name in a commit message"
+	}, {
+		"id": "necromancer",
+		"label": "Necromancer",
+		"description": "Make a commit to a repo that hasn’t been touched for 1 month or more"
+	}, {
+		"id": "never-probably",
+		"label": "Never, Probably",
+		"description": "Use word “later” in a commit message"
+	}, {
+		"id": "new-year",
+		"label": "New Year, New Bugs",
+		"description": "Commit on Jan 1"
+	}, {
+		"id": "no-more-letters",
+		"label": "No More Letters",
+		"description": "Write a commit message without any letters"
+	}, {
+		"id": "nothing-to-hide",
+		"label": "Nothing to Hide",
+		"description": "Commit a secret"
+	}, {
+		"id": "ocd",
+		"label": "OCD",
+		"description": "Commit a file with just trailing spaces removed"
+	}, {
+		"id": "ooops",
+		"label": "Ooops",
+		"description": "Commit and revert commit within 1 minute"
+	}, {
+		"id": "owl",
+		"label": "Owl",
+		"description": "Commit between 4am and 7am local time"
+	}, {
+		"id": "php",
+		"label": "New Facebook is Born",
+		"description": "Add PHP file to the repo"
+	}, {
+		"id": "programmers-day",
+		"label": "Professional Pride",
+		"description": "Commit on Programmers' Day"
+	}, {
+		"id": "python",
+		"label": "Why not Ruby?",
+		"description": "Add Python file to the repo"
+	}, {
+		"id": "quest-complete",
+		"label": "Quest Complete",
+		"description": "Get all achievements"
+	}, {
+		"id": "ruby",
+		"label": "Back on the Rails",
+		"description": "Add Ruby file to the repo"
+	}, {
+		"id": "scribbler",
+		"label": "Scribbler",
+		"description": "Create a README"
+	}, {
+		"id": "secure",
+		"label": "We’re Safe Now",
+		"description": "Use word “secure” in a commit message"
+	}, {
+		"id": "shell",
+		"label": "We’ll Rewrite that Later",
+		"description": "Add Bash file to the repo"
+	}, {
+		"id": "sorry",
+		"label": "Salvation",
+		"description": "Use word “sorry” in a commit message"
+	}, {
+		"id": "sql",
+		"label": "Not a Web Scale",
+		"description": "Add SQL file to the repo"
+	}, {
+		"id": "time-get",
+		"label": "Get",
+		"description": "Commit exactly at 00:00"
+	}, {
+		"id": "unpretending",
+		"label": "Unpretending",
+		"description": "Zero achievments after 100 your own commits"
+	}, {
+		"id": "valentine",
+		"label": "In Love with Work",
+		"description": "Commit on Feb 14"
+	}, {
+		"id": "waste",
+		"label": "Waste",
+		"description": "Your commit was reverted completely by someone else"
+	}, {
+		"id": "what-happened-here",
+		"label": "What Happened Here?",
+		"description": "Edit a file that hasn’t been touched for a year"
+	}, {
+		"id": "windows-language",
+		"label": "You Can't Program on Windows, Can You?",
+		"description": "Add Windows Shell file to the repo"
+	}, {
+		"id": "worker-bee",
+		"label": "Worker Bee",
+		"description": "Make 100+ non-merge commits"
+	}, {
+		"id": "world-balance",
+		"label": "World Balance",
+		"description": "Number of lines added == number of lines deleted"
+	}, {
+		"id": "wow",
+		"label": "Wow",
+		"description": "Use word “wow” in a commit message"
+	}, {
+		"id": "wrecking-ball",
+		"label": "Wrecking Ball",
+		"description": "Change more than 100 files in one commit"
+	}
+]
